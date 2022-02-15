@@ -3,8 +3,13 @@ content_type: resource
 description: 'This file contains notes for the topics: Strain I: displacement, strain
   and terminology, The strain ellipsoid, Displacement vector fields and strain, and
   Mohr circles II: Finite strain.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-113-structural-geology-fall-2005/957a4a4a1780261174e3d5cada263446_notes2.pdf
+file: /media/courses/12-113-structural-geology-fall-2005/957a4a4a1780261174e3d5cada263446_notes2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes2.pdf
 uid: 957a4a4a-1780-2611-74e3-d5cada263446
