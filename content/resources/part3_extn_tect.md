@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: part3_extn_tect.pdf
 uid: 8ecabcfd-cae6-4b2a-43ee-1404718994a1

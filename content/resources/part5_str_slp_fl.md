@@ -18,6 +18,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: part5_str_slp_fl.pdf
 uid: b4b24301-5474-defe-1022-a4a55bd74193

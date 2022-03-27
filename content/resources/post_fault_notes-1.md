@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 5368f47b-d8bd-d02f-9b42-2b5e81747713
 resourcetype: Document
 title: post_fault_notes.pdf
 uid: bab28592-3c9e-4291-0d93-adaf399e23b3

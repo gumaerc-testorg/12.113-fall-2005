@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d577a64-2a0b-a648-3512-f93b45a3dcf7
 resourcetype: Document
 title: lab5_brittle_fau.pdf
 uid: f1746e7b-ea52-131c-0379-f33bf3d19485

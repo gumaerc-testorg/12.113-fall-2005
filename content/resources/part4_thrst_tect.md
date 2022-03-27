@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: part4_thrst_tect.pdf
 uid: b2c89b72-68b7-3720-ee3c-9fbffbbb0be8

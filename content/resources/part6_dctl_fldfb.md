@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: part6_dctl_fldfb.pdf
 uid: d28eb4b4-6b1f-261b-740e-e97fa23286ab

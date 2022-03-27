@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d577a64-2a0b-a648-3512-f93b45a3dcf7
 resourcetype: Document
 title: lab7_thrust_bsol.pdf
 uid: f5a7b43d-23d7-5ba6-8a6d-07ac4e47963a

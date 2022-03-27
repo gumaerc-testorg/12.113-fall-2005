@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d577a64-2a0b-a648-3512-f93b45a3dcf7
 resourcetype: Document
 title: lab7_fold_thursb.pdf
 uid: 54aaa7cc-ddac-be01-8069-4360ca14a6b2

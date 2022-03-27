@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 resourcetype: Document
 title: part1_cnt_mch_rh.pdf
 uid: b93dbccd-950d-ea9a-2471-5ff8de7dcabc
