@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 2afd4e30-a936-7424-a008-56cdd627f3cf
 ---
@@ -51,7 +52,7 @@ Rheology Part Two: Experimental Rock Deformation, Stress-Strain Curves
 {{< tdopen >}}
 
 
-([PDF - 1.3 MB]({{< baseurl >}}/resources/part1_cnt_mch_rh))
+({{< resource_link b93dbccd-950d-ea9a-2471-5ff8de7dcabc "PDF - 1.3 MB" >}})
 
 
 {{< tdclose >}}
@@ -85,13 +86,13 @@ Strike-slip Faults
 {{< tdopen >}}
 
 
-([PDF 1 - 5.2 MB]({{< baseurl >}}/resources/part2_faults))
+({{< resource_link 56cf7281-941e-834f-8d1e-1f7b8cbb4911 "PDF 1 - 5.2 MB" >}})
 
-([PDF 2 - 7.0 MB]({{< baseurl >}}/resources/part3_extn_tect))
+({{< resource_link 8ecabcfd-cae6-4b2a-43ee-1404718994a1 "PDF 2 - 7.0 MB" >}})
 
-([PDF 3]({{< baseurl >}}/resources/part4_thrst_tect))
+({{< resource_link b2c89b72-68b7-3720-ee3c-9fbffbbb0be8 "PDF 3" >}})
 
-([PDF 4]({{< baseurl >}}/resources/part5_str_slp_fl))
+({{< resource_link b4b24301-5474-defe-1022-a4a55bd74193 "PDF 4" >}})
 
 
 {{< tdclose >}}
@@ -119,7 +120,7 @@ Fabrics and Deformation Mechanisms
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/part6_dctl_fldfb))
+({{< resource_link d28eb4b4-6b1f-261b-740e-e97fa23286ab "PDF" >}})
 
 
 {{< tdclose >}}

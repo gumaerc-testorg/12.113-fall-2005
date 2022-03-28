@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_listric_faul.jpg
 uid: b61931d0-a275-d76e-a204-fff33b68b300
