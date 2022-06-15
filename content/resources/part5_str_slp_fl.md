@@ -11,7 +11,7 @@ description: 'These notes cover the following topics: Characteristics of strikes
   faults at depth?, Systems of strikeslip
 
   faults.'
-file: /media/courses/12-113-structural-geology-fall-2005/b4b243015474defe1022a4a55bd74193_part5_str_slp_fl.pdf
+file: /courses/12-113-structural-geology-fall-2005/b4b243015474defe1022a4a55bd74193_part5_str_slp_fl.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -23,3 +23,10 @@ resourcetype: Document
 title: part5_str_slp_fl.pdf
 uid: b4b24301-5474-defe-1022-a4a55bd74193
 ---
+These notes cover the following topics: Characteristics of strikeslip
+faults, Relationships between strikeslip
+faults and compressive or extensional
+structures, What happens to strikeslip
+faults at depth?, Systems of strikeslip
+faults.
+
