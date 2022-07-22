@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Labs section contains lab handouts and the solutions provided for them.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 6d577a64-2a0b-a648-3512-f93b45a3dcf7
 ---
@@ -31,10 +35,10 @@ I
 Stress
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab1))
+({{% resource_link 8e300667-feb0-fb14-5784-322428bccce4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lab1sol))
+({{% resource_link 07bc5db6-5955-ae57-6bd6-d918c0551821 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,10 +50,10 @@ II
 Strain
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab2))
+({{% resource_link e0ed7be7-b7e8-0598-2e64-94570e28d3dc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab2_strain_soln))
+({{% resource_link da1a6fd6-2d25-5443-2837-72a89cdedee3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +80,10 @@ III
 Techniques of Structural Geology I: 3D Geometries
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab3_stereonets))
+({{% resource_link 51dd3830-15d2-1972-5081-94ae0c8fe491 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/l3_solution))
+({{% resource_link 12467637-49ee-ebea-5362-f8ff54f9e43d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,10 +95,10 @@ IV
 Techniques of Structural Geology II: Cross-sections
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab4_xsecs))
+({{% resource_link 66a7d875-068a-2736-1bdc-5a78368b8a34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8 MB]({{< baseurl >}}/resources/lab4_crs_sec_sol))
+({{% resource_link 2b7b98bf-b3ec-b09c-6d97-f336aa4a92a2 "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +110,7 @@ V
 Faults
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab5_brittle_fau))
+({{% resource_link f1746e7b-ea52-131c-0379-f33bf3d19485 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -123,11 +127,11 @@ Folds
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/lab_folds))
+({{% resource_link 8b4d8d84-619c-faa0-fbd4-4ab4d52f3edf "PDF 1" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/l8_handout))
+({{% resource_link 3f26b6d3-5f66-5e2d-f367-93edcb3f4142 "PDF 2" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 3]({{< baseurl >}}/resources/l8_exercises))
+({{% resource_link 8354ab36-af53-0b59-9994-58a8981ee367 "PDF 3" %}})
 
 
 {{< tdclose >}}
@@ -159,10 +163,10 @@ VIII
 Classic Structural Environments I: Fold and Thrust Belts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab7_fold_thursb))
+({{% resource_link 54aaa7cc-ddac-be01-8069-4360ca14a6b2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab7_thrust_bsol))
+({{% resource_link f5a7b43d-23d7-5ba6-8a6d-07ac4e47963a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ IX
 Classic Structural Environments II: High Grade Gneiss Terranes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lab9_high_grade))
+({{% resource_link fb63c447-f432-fdf2-e4cf-ab980c84893f "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -189,7 +193,7 @@ X
 Classic Structural Environments III: Extensional Environments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab6_extension))
+({{% resource_link 036e56f2-3437-1593-5e34-36b52c078109 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
