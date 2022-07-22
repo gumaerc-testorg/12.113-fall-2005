@@ -6,6 +6,7 @@ file: /courses/12-113-structural-geology-fall-2005/f75d0868edb51673fa092577921ff
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes6.pdf
 uid: f75d0868-edb5-1673-fa09-2577921ffd06
 ---
 This file contains notes for the topics: Failure Criteria, Cohesive Materials, Effect of pore fluid pressures.
-

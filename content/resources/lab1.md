@@ -5,6 +5,7 @@ file: /courses/12-113-structural-geology-fall-2005/8e300667feb0fb145784322428bcc
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1.pdf
 uid: 8e300667-feb0-fb14-5784-322428bccce4
 ---
 This file contains exercise questions for stress, mohr's circles.
-

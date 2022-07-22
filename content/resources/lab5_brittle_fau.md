@@ -5,6 +5,7 @@ file: /courses/12-113-structural-geology-fall-2005/f1746e7bea52131c0379f33bf3d19
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab5_brittle_fau.pdf
 uid: f1746e7b-ea52-131c-0379-f33bf3d19485
 ---
 This file contains questions for brittle faults.
-

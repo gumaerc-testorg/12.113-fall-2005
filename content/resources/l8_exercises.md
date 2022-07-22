@@ -5,6 +5,7 @@ file: /courses/12-113-structural-geology-fall-2005/8354ab36af530b59999458a8981ee
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l8_exercises.pdf
 uid: 8354ab36-af53-0b59-9994-58a8981ee367
 ---
 This file contains diagramatic exercise for folds.
-

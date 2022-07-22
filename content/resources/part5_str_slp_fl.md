@@ -15,6 +15,7 @@ file: /courses/12-113-structural-geology-fall-2005/b4b243015474defe1022a4a55bd74
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -29,4 +30,3 @@ faults and compressive or extensional
 structures, What happens to strikeslip
 faults at depth?, Systems of strikeslip
 faults.
-

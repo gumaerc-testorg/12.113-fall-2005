@@ -5,6 +5,7 @@ file: /courses/12-113-structural-geology-fall-2005/e0ed7be7b7e805982e6494570e28d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2.pdf
 uid: e0ed7be7-b7e8-0598-2e64-94570e28d3dc
 ---
 This file contains questions for strain.
-
