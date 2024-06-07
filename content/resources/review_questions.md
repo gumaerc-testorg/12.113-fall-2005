@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains final exam review questions.
 file: /courses/12-113-structural-geology-fall-2005/165799c27e477ad705a6f4fd5b3607aa_review_questions.pdf
+file_size: 54599
 file_type: application/pdf
 learning_resource_types:
 - Exams

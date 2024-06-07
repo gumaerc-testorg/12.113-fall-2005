@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for Growth strata, Models of Extensional Faults
   etc.
 file: /courses/12-113-structural-geology-fall-2005/3d8af13be1fb89c0143fbb756b41f024_notes8.pdf
+file_size: 2164583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

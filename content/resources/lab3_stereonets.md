@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains lab questions for stereonets.
 file: /courses/12-113-structural-geology-fall-2005/51dd383015d21972508194ae0c8fe491_lab3_stereonets.pdf
+file_size: 132516
 file_type: application/pdf
 learning_resource_types:
 - Labs
