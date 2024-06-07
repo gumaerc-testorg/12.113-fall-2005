@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains exercise questions for stress, mohr's circles.
 file: /courses/12-113-structural-geology-fall-2005/8e300667feb0fb145784322428bccce4_lab1.pdf
+file_size: 304956
 file_type: application/pdf
 learning_resource_types:
 - Labs

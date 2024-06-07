@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains summary notes for folds.
 file: /courses/12-113-structural-geology-fall-2005/bab285923c9e42910d93adaf399e23b3_post_fault_notes.pdf
+file_size: 58318
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -4,6 +4,7 @@ description: 'These notes cover the following topics: Growth strata, Models of e
   faults, Listric faults, Planar, rotating fault arrays, Stratigraphic signature of
   normal faults and extension, and Core complexes.'
 file: /courses/12-113-structural-geology-fall-2005/8ecabcfdcae64b2a43ee1404718994a1_part3_extn_tect.pdf
+file_size: 7417912
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

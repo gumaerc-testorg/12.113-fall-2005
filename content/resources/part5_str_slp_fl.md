@@ -12,6 +12,7 @@ description: 'These notes cover the following topics: Characteristics of strikes
 
   faults.'
 file: /courses/12-113-structural-geology-fall-2005/b4b243015474defe1022a4a55bd74193_part5_str_slp_fl.pdf
+file_size: 87648
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
