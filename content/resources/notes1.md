@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for stress, tractions, forces, principal stresses,
   andspecial states of stress.
 file: /courses/12-113-structural-geology-fall-2005/49f5de4deb991c038917151ce333ab4e_notes1.pdf
+file_size: 136188
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

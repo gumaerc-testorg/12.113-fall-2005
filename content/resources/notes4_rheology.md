@@ -4,6 +4,7 @@ description: 'This file contains notes for the topics:  Ideal behaviours, Elasti
   behaviour Hooke''s law, Viscous behaviour Newtonian fluids, Visco-elasticity I:
   Maxwell bodies, Visco-elasticity II: Kelvin bodies.'
 file: /courses/12-113-structural-geology-fall-2005/9745ccdbd110770a6ecba977ffe7161c_notes4_rheology.pdf
+file_size: 334889
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
