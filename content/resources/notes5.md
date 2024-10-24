@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains notes for the topics: Experimental rock deformation,
   Experimental rock deformation: phenomenology, Experimental rock deformation: phenomenology,
   Ductile deformation: the e ects of strain rate and temperature,'
-file: /courses/12-113-structural-geology-fall-2005/672f37830d8fe90dbe54e4df0ba08a75_notes5.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/672f37830d8fe90dbe54e4df0ba08a75_notes5.pdf
 file_size: 982905
 file_type: application/pdf
 learning_resource_types:

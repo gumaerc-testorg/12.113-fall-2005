@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains solutions for the questions asked for stress and mohr's
   circles.
-file: /courses/12-113-structural-geology-fall-2005/07bc5db65955ae576bd6d918c0551821_lab1sol.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/07bc5db65955ae576bd6d918c0551821_lab1sol.pdf
 file_size: 1282266
 file_type: application/pdf
 learning_resource_types:
