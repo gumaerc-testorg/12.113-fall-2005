@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for extensional tectonics.
-file: /courses/12-113-structural-geology-fall-2005/036e56f2343715935e3436b52c078109_lab6_extension.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/036e56f2343715935e3436b52c078109_lab6_extension.pdf
 file_size: 755019
 file_type: application/pdf
 learning_resource_types:
