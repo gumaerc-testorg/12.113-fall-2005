@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains questions for the topic: Folds and their map patterns.'
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/8b4d8d84619cfaa0fbd44ab4d52f3edf_lab_folds.pdf
+file: /courses/12-113-structural-geology-fall-2005/8b4d8d84619cfaa0fbd44ab4d52f3edf_lab_folds.pdf
 file_size: 747175
 file_type: application/pdf
 learning_resource_types:

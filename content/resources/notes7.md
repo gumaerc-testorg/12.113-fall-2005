@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for faults.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/5e104c331da364215f6f014d6b8e93f4_notes7.pdf
+file: /courses/12-113-structural-geology-fall-2005/5e104c331da364215f6f014d6b8e93f4_notes7.pdf
 file_size: 1110975
 file_type: application/pdf
 learning_resource_types:

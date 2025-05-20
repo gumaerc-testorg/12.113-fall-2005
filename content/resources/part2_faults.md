@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about brittle material behaviour, faults ? general,
   normal faults and extensional tectonics, thrust tectonics, and strike-slip faults.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/56cf7281941e834f8d1e1f7b8cbb4911_part2_faults.pdf
+file: /courses/12-113-structural-geology-fall-2005/56cf7281941e834f8d1e1f7b8cbb4911_part2_faults.pdf
 file_size: 5450598
 file_type: application/pdf
 learning_resource_types:

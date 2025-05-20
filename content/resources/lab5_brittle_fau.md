@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for brittle faults.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/f1746e7bea52131c0379f33bf3d19485_lab5_brittle_fau.pdf
+file: /courses/12-113-structural-geology-fall-2005/f1746e7bea52131c0379f33bf3d19485_lab5_brittle_fau.pdf
 file_size: 419902
 file_type: application/pdf
 learning_resource_types:

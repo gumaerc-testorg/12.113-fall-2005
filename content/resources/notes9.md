@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for geometry, general characteristics.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/e87f0cd733362de733b98eacb97c26fb_notes9.pdf
+file: /courses/12-113-structural-geology-fall-2005/e87f0cd733362de733b98eacb97c26fb_notes9.pdf
 file_size: 89672
 file_type: application/pdf
 learning_resource_types:

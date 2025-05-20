@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for the previous exams.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/0fae51520436b47745ad76def39aa03c_old_midterm.pdf
+file: /courses/12-113-structural-geology-fall-2005/0fae51520436b47745ad76def39aa03c_old_midterm.pdf
 file_size: 31753
 file_type: application/pdf
 learning_resource_types:

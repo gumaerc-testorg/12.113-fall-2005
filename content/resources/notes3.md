@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for progressive strain in pure shear.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/74885ee8e6f4f8ffda454b911a857488_notes3.pdf
+file: /courses/12-113-structural-geology-fall-2005/74885ee8e6f4f8ffda454b911a857488_notes3.pdf
 file_size: 152200
 file_type: application/pdf
 learning_resource_types:
