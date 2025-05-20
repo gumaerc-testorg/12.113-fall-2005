@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for the topics: Failure Criteria, Cohesive
   Materials, Effect of pore fluid pressures.'
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/f75d0868edb51673fa092577921ffd06_notes6.pdf
+file: /courses/12-113-structural-geology-fall-2005/f75d0868edb51673fa092577921ffd06_notes6.pdf
 file_size: 135141
 file_type: application/pdf
 learning_resource_types:

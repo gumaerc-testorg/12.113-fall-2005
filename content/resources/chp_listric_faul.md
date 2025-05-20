@@ -2,7 +2,7 @@
 content_type: resource
 description: Schematic of a listric fault, with rotating upper plate blocks and breakaway
   fault. (Image by Prof. B. Clark Burchfiel.)
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/b61931d0a275d76ea204fff33b68b300_chp_listric_faul.jpg
+file: /courses/12-113-structural-geology-fall-2005/b61931d0a275d76ea204fff33b68b300_chp_listric_faul.jpg
 file_size: 58118
 file_type: image/jpeg
 image_metadata:

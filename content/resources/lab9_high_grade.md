@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains questions for Lab 9: High grade terranes.'
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/fb63c447f432fdf2e4cfab980c84893f_lab9_high_grade.pdf
+file: /courses/12-113-structural-geology-fall-2005/fb63c447f432fdf2e4cfab980c84893f_lab9_high_grade.pdf
 file_size: 4501183
 file_type: application/pdf
 learning_resource_types:

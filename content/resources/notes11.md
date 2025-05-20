@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for folds.
-file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/aeaf9179b2348f732f9bd84a68ccd0e7_notes11.pdf
+file: /courses/12-113-structural-geology-fall-2005/aeaf9179b2348f732f9bd84a68ccd0e7_notes11.pdf
 file_size: 678661
 file_type: application/pdf
 learning_resource_types:
