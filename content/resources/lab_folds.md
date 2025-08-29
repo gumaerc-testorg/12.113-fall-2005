@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/8b4d8d84619
 file_size: 747175
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
