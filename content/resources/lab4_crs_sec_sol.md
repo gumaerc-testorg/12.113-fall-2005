@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains the solutions for the questions asked for cross section.
-file: /courses/12-113-structural-geology-fall-2005/2b7b98bfb3ecb09c6d97f336aa4a92a2_lab4_crs_sec_sol.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/2b7b98bfb3ecb09c6d97f336aa4a92a2_lab4_crs_sec_sol.pdf
 file_size: 1924054
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

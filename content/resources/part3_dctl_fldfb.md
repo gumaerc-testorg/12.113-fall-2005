@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about folds, fabrics and deformation mechanisms.
-file: /courses/12-113-structural-geology-fall-2005/da76564344748c7e101e141315353992_part3_dctl_fldfb.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/da76564344748c7e101e141315353992_part3_dctl_fldfb.pdf
 file_size: 670345
 file_type: application/pdf
 learning_resource_types:
