@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains solutions for fold and thrust belts.
-file: /courses/12-113-structural-geology-fall-2005/f5a7b43d23d75ba68a6d07ac4e47963a_lab7_thrust_bsol.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/f5a7b43d23d75ba68a6d07ac4e47963a_lab7_thrust_bsol.pdf
 file_size: 1014507
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

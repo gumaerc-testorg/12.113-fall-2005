@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains questions for strain.
-file: /courses/12-113-structural-geology-fall-2005/e0ed7be7b7e805982e6494570e28d3dc_lab2.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/e0ed7be7b7e805982e6494570e28d3dc_lab2.pdf
 file_size: 151610
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

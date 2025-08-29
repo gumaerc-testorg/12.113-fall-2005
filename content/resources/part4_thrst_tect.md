@@ -6,7 +6,7 @@ description: 'These notes cover the following topics: Jargon, Geometry, general 
 
   can they grow forever? What is the backstop anyways?, and Mechanical paradox of
   overthrusts.'
-file: /courses/12-113-structural-geology-fall-2005/b2c89b7268b73720ee3c9fbffbbb0be8_part4_thrst_tect.pdf
+file: /ol-ocw-studio-app/courses/12-113-structural-geology-fall-2005/b2c89b7268b73720ee3c9fbffbbb0be8_part4_thrst_tect.pdf
 file_size: 437212
 file_type: application/pdf
 learning_resource_types:
